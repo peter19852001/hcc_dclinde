@@ -275,7 +275,7 @@ You may tweak the functions to generate cases with other parameters.
 Licence
 ====================================================================
 The following files are written by Peter Lo (me, email:
-peter19852001@yahoo.com.hk), and I hereby grant the permission of
+peter19852001@yahoo.com.hk), and I hereby grant the permission to
 anyone to use these files for any non-commercial purposes, with not
 warranty.:
 
